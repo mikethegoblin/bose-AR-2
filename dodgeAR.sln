@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable", "Bose.Wearable.csproj", "{2D543AF1-7CF7-DF44-85C1-492E0A0A02AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0ACBFC89-4D45-3FCA-DCA4-CF24CD34BE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable.Editor", "Bose.Wearable.Editor.csproj", "{3124E26B-07FD-E428-F299-B1E520671220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable.Connection.Editor", "Bose.Wearable.Connection.Editor.csproj", "{969B469F-0B72-8209-DD69-15910614B694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable.Examples.Editor", "Bose.Wearable.Examples.Editor.csproj", "{2DC27F9A-E743-2A14-DE86-DEE859C95794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable.Debugging.Editor", "Bose.Wearable.Debugging.Editor.csproj", "{F0615AF6-0BC6-6C07-EA75-2250D642C0CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bose.Wearable.Shared.Editor", "Bose.Wearable.Shared.Editor.csproj", "{0B30086F-62A4-3E8F-BED7-67909BC6FB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D543AF1-7CF7-DF44-85C1-492E0A0A02AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D543AF1-7CF7-DF44-85C1-492E0A0A02AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D543AF1-7CF7-DF44-85C1-492E0A0A02AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D543AF1-7CF7-DF44-85C1-492E0A0A02AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACBFC89-4D45-3FCA-DCA4-CF24CD34BE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACBFC89-4D45-3FCA-DCA4-CF24CD34BE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACBFC89-4D45-3FCA-DCA4-CF24CD34BE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACBFC89-4D45-3FCA-DCA4-CF24CD34BE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3124E26B-07FD-E428-F299-B1E520671220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3124E26B-07FD-E428-F299-B1E520671220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3124E26B-07FD-E428-F299-B1E520671220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3124E26B-07FD-E428-F299-B1E520671220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969B469F-0B72-8209-DD69-15910614B694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969B469F-0B72-8209-DD69-15910614B694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969B469F-0B72-8209-DD69-15910614B694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969B469F-0B72-8209-DD69-15910614B694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC27F9A-E743-2A14-DE86-DEE859C95794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC27F9A-E743-2A14-DE86-DEE859C95794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC27F9A-E743-2A14-DE86-DEE859C95794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC27F9A-E743-2A14-DE86-DEE859C95794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0615AF6-0BC6-6C07-EA75-2250D642C0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0615AF6-0BC6-6C07-EA75-2250D642C0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0615AF6-0BC6-6C07-EA75-2250D642C0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0615AF6-0BC6-6C07-EA75-2250D642C0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B30086F-62A4-3E8F-BED7-67909BC6FB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B30086F-62A4-3E8F-BED7-67909BC6FB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B30086F-62A4-3E8F-BED7-67909BC6FB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B30086F-62A4-3E8F-BED7-67909BC6FB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
